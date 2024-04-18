@@ -31,6 +31,7 @@
 		963BD0F52965DC0000321FBA /* ChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 963BD0F42965DC0000321FBA /* ChartData.swift */; };
 		963BD0F72965DDED00321FBA /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 963BD0F62965DDED00321FBA /* Date.swift */; };
 		963BD0F92965E05500321FBA /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 963BD0F82965E05500321FBA /* ChartView.swift */; };
+		96AA9E2A2BD1DE1E00902508 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 96AA9E292BD1DE1E00902508 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		963BD0F42965DC0000321FBA /* ChartData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartData.swift; sourceTree = "<group>"; };
 		963BD0F62965DDED00321FBA /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 		963BD0F82965E05500321FBA /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
+		96AA9E292BD1DE1E00902508 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		963BD0AB29655EE800321FBA = {
 			isa = PBXGroup;
 			children = (
+				96AA9E292BD1DE1E00902508 /* .gitignore */,
 				963BD0B629655EE800321FBA /* CryptoTracker */,
 				963BD0B529655EE800321FBA /* Products */,
 			);
@@ -279,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				963BD0BF29655EEC00321FBA /* Preview Assets.xcassets in Resources */,
+				96AA9E2A2BD1DE1E00902508 /* .gitignore in Resources */,
 				963BD0BC29655EEC00321FBA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
