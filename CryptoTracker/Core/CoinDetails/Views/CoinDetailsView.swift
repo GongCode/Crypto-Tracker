@@ -20,6 +20,9 @@ struct CoinDetailsView: View {
                 ChartView(viewModel: viewModel)
                     .frame(height: 250)
                     .padding(.vertical)
+                    .shadow(color: viewModel.chartLineColor, radius: 10)
+                    .shadow(color: viewModel.chartLineColor.opacity(0.35), radius: 10)
+                
                 
                 
                 // overview
