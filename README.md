@@ -5,6 +5,7 @@ Displays live pricing updates, market trends, and historical data on interactive
 <br/>
 <br/>
 # Home page and coin view
+<br/>
 <p>
   <img src="img/sc1.png" width="232" />
   <img src="img/sc3.png" width="232" hspace="35" /> 
@@ -14,7 +15,7 @@ Displays live pricing updates, market trends, and historical data on interactive
 <br/>
 
 # Dark mode support
-
+<br/>
 <p>
   <img src="img/sc2.png" width="232" />
   <img src="img/sc4.png" width="232" hspace="40" /> 
