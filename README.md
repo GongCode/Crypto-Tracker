@@ -18,6 +18,6 @@ Displays live pricing updates, market trends, and historical data on interactive
 <br/>
 <p>
   <img src="img/sc2.png" width="232" />
-  <img src="img/sc4.png" width="232" hspace="40" /> 
+  <img src="img/sc4.png" width="232" hspace="50" /> 
 </p>
 
