@@ -1,5 +1,5 @@
 # Crypto Tracker App
-IOS application that tracks the top cryptocurrencies. Built with SwiftUI and fetches data using the CoinGecko API. 
+iOS application that tracks the top cryptocurrencies. Built with SwiftUI and fetches data using the CoinGecko API. 
 
 Displays live pricing updates, market trends, and historical data on interactive charts.
 <br/>
